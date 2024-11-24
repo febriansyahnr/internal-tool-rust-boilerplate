@@ -1,0 +1,8 @@
+environtment: "local"
+service_name: "internal-tools"
+
+clickup:
+  base_url: ""
+
+backend_portal:
+  base_url: "https://api-stg.harsya.com/backend-portal"
