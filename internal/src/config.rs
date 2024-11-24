@@ -41,6 +41,7 @@ pub fn get_config() -> &'static Config {
     })
 }
 
+#[allow(unused_imports)]
 mod test_config {
     use super::get_config;
 
